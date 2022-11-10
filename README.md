@@ -5,7 +5,6 @@
 ## &#x1f4c8; GitHub Stats
 <p align="center"><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Bagusdwik&show_icons=true&include_all_commits=true&theme=radical" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bagusdwik&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagusdwik&layout=compact&theme=radical&langs_count=12"/><br />
 </p>
 
