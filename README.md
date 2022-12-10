@@ -2,11 +2,14 @@
 
 - 💬 Ask me about philosophy. I will answer and explain to the best of my knowledge.
 
-## &#x1f4c8; GitHub Stats
-<p align="center"><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Bagusdwik&show_icons=true&include_all_commits=true&theme=radical" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagusdwik&layout=compact&theme=radical&langs_count=12"/><br />
-</p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bagusdwik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bagusdwik&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagusdwik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bagus.dwik) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bagusdwik)
 
 <!--
 **Bagusdwik/bagusdwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
